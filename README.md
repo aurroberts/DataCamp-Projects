@@ -1,2 +1,2 @@
 # DataCamp-Problem-Sets
-All technological projects attempted on DataCamp's platform to date
+This repository contains all the technological projects/problem sets I have attempted on DataCamp's platform to date.
