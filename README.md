@@ -1,5 +1,5 @@
 # DataCamp-Projects
-This repository contains all the technological projects/problem sets I have attempted on DataCamp's platform (updated weekly).
+This repository contains all the technological projects I have attempted on DataCamp's platform (updated weekly).
 
 ## Tools(+ Skills) used
 1. SQL
