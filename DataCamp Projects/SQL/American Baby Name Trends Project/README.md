@@ -1,5 +1,5 @@
 ## Project Overview
-This project analyzes U.S. baby name date from 1920 to 2020 using SQL. The goal was to explore how naming trends have changed across generations - identifying timeless classics vs. Short-term fads and ranking popularity over time.
+This project analyzes U.S. baby name date from 1920 to 2020 using SQL. The goal was to explore how naming trends have changed across generations - identifying timeless classics vs. short-term fads and ranking popularity over time.
 
 ## Tools Used
 - PostgreSQL/SQL
