@@ -19,13 +19,3 @@ This project analyzes U.S. baby name date from 1920 to 2020 using SQL. The goal 
 
 ## How to Run
 - Open the notebook in Jupyter or view on GitHub.
-
-## Sample Query
-SELECT
-  first_name,
-  SUM(num) AS sum,
-  CASE WHEN COUNT(year) >= 50 THEN 'Classic'
-    ELSE 'Trendy' END AS popularity_type
-FROM baby_names
-GROUP BY first_name
-ORDER BY first_name;
