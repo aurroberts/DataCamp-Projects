@@ -1,4 +1,4 @@
-# Cleaning a PostgreSQL Database (DataCamp)
+# Cleaning a PostgreSQL Database
 
 ## Project Overview
 This project focuses on cleaning and analyzing sales data from a fictional Super Store using PostgreSQL. The goal was to identify top product categories by profit, detect and handle missing values, and practice using window functions and CTEs in SQL.
