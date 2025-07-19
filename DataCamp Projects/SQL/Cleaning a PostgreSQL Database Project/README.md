@@ -16,6 +16,7 @@ This project focuses on cleaning and analyzing sales data from a fictional Super
 ## Files
 - 'notebook.ipynb': Interactive analysis
 - 'Project_Image.jpeg': Visual header
+- 'SuperStore_ERD.png': Database schema
 
 ## How to Run
 Open the Jupyter Notebook in a PostgreSQL-connect Jupyter environment or view it using GitHub's built-in notebook renderer.
